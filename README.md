@@ -6,7 +6,7 @@ First, you'll want to `fork` my repository. A fork is a copy of a repository, so
 
 ![fork](img/fork.png?raw=true)
 
-Click `fork`, and wait while the :sparkle: magic :sparkle: happens!
+Click `fork`, and wait while the :sparkles: magic :sparkles: happens!
 
 ### Step 2
 
